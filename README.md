@@ -2,7 +2,7 @@
 
 My name is Jasmeet Singh, I'm currently learning Web Design and Web Development. I really enjoy learning new technologies, languages and frameworks. I like to help others and I love to be a part of the Open Source Community.
 
-Skills:- HTML5, CSS 3, SASS, Javascript, JSON, JAVA
+Skills:- HTML5, CSS 3, SASS, Javascript, JAVA, JSON
 
 
 
