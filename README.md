@@ -16,7 +16,7 @@ My name is Jasmeet Singh, I'm currently learning Web Design and Web Development.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsm313&show_icons=true&locale=en&layout=compact&" alt="jsm313" /></p>
 
-
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsm313&show_icons=true&locale=en&theme=github_dark" alt="jsm313" /></p>
 
