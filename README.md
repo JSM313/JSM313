@@ -14,6 +14,10 @@ My name is Jasmeet Singh, I'm currently learning Web Design and Web Development.
 
 <hr>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsm313" alt="jsm313" /></a> </p>
+
+<hr>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsm313&show_icons=true&locale=en&layout=compact&" alt="jsm313" /></p>
 
 <br>
