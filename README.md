@@ -3,6 +3,11 @@
 
 My name is Jasmeet Singh, I'm currently learning Web Design and Web Development. I really enjoy learning new technologies, languages and frameworks. I like to help others and I love to be a part of the Open Source Community.
 
+<div id="header" align="center">
+  <img align="center" src="https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b7611c5820485cd171d9b9da1d0f054626fe4b517c124&rid=giphy.gif&ct=g" width="150"/>
+  <img align="center" src = "https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b761142fad94199fff67b1f4a12ecb3d52975491c0de4&rid=giphy.gif&ct=g" width = "150">
+</div>
+
 <hr>
 
 <h3 align="left">Connect with me:</h3>
