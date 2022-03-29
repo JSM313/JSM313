@@ -27,7 +27,7 @@ My name is Jasmeet Singh, I'm currently learning Web Design and Web Development.
 <hr>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsm313&theme=tokyonight&column=3&row=2" alt="jsm313" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsm313&theme=tokyonight&row=1" alt="jsm313" /></a> </p>
 
 <hr>
 
