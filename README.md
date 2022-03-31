@@ -44,7 +44,7 @@ My name is Jasmeet Singh, I'm currently learning Web Design and Web Development.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jsm313&theme=cobalt" alt="jsm313" /></p>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JSM313&theme=github)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JSM313&theme=react-dark)  
 
 
 ![Profile views](https://gpvc.arturio.dev/JSM313)  
