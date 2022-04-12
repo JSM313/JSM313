@@ -44,7 +44,14 @@ My name is Jasmeet Singh, I'm currently learning Web Design and Web Development.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jsm313&theme=cobalt" alt="jsm313" /></p>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JSM313&theme=react-dark)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JSM313&theme=react-dark)
 
+![Profile views](https://gpvc.arturio.dev/JSM313)
 
-![Profile views](https://gpvc.arturio.dev/JSM313)  
+<div align="center">
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+</div>
+
+<!-- ![Profile views](https://gpvc.arturio.dev/JSM313)   -->
