@@ -3,6 +3,9 @@
 
 My name is Jasmeet Singh, I'm currently learning Web Design and Web Development. I really enjoy learning new technologies, languages and frameworks. I like to help others and I love to be a part of the Open Source Community.
 
+<a href="https://www.github.com/JSM313" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/JSM313?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 <div id="header" align="center">
   <img align="center" src="https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b7611c5820485cd171d9b9da1d0f054626fe4b517c124&rid=giphy.gif&ct=g" width="150"/>
   <img align="center" src = "https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b761142fad94199fff67b1f4a12ecb3d52975491c0de4&rid=giphy.gif&ct=g" width = "150">
