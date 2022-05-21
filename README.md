@@ -29,6 +29,7 @@ src="https://img.shields.io/github/followers/JSM313?logo=github&style=for-the-ba
 
 <hr>
 
+<div align="center">
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsm313&theme=tokyonight&row=1" alt="jsm313" /></a> </p>
 
@@ -39,6 +40,8 @@ src="https://img.shields.io/github/followers/JSM313?logo=github&style=for-the-ba
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsm313&show_icons=true&locale=en&theme=react" alt="jsm313" /></p>
+  
+
 
 
 <br>
@@ -48,6 +51,8 @@ src="https://img.shields.io/github/followers/JSM313?logo=github&style=for-the-ba
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JSM313&theme=react-dark)
+  
+</div>
 
 ![Profile views](https://gpvc.arturio.dev/JSM313)
 
