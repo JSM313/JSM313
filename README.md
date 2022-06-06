@@ -63,4 +63,12 @@ src="https://img.shields.io/github/followers/JSM313?logo=github&style=for-the-ba
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>
 
+<div align='center'>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  
+</div>
+  
+</div>
+
 <!-- ![Profile views](https://gpvc.arturio.dev/JSM313)   -->
