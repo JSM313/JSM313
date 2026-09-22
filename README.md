@@ -84,25 +84,6 @@ Orchestrated DAG pipeline for Chicago crime data on Airflow 2.9.
 
 <br/>
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jsm313&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=475569&text_color=64748b&icon_color=475569" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsm313&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=475569&text_color=64748b" height="165" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JSM313/JSM313/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JSM313/JSM313/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/JSM313/JSM313/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
 <div align="center">
 
 <a href="https://linkedin.com/in/jasmeet-singh313"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=94a3b8&labelColor=0f172a" /></a>
