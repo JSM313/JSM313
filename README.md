@@ -8,6 +8,19 @@
 
 <br/>
 
+```bash
+$ whoami
+> data enthusiast, turning chaos into clean tables
+
+$ cat skills.txt
+> SQL, Python, Airflow, GCP, Azure — daily driver stack
+
+$ echo $STATUS
+> shipping pipelines, breaking things, fixing things faster
+```
+
+<br/>
+
 ## 🧠 What I Work With
 
 <div align="center">
@@ -84,6 +97,24 @@ Orchestrated pipeline for Chicago crime data
 </td>
 </tr>
 </table>
+
+<br/>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/JSM313/JSM313/main/assets/skills.svg" alt="skill proficiency chart" width="100%" />
+
+<br/>
+
+<img src="https://ghchart.rshah.org/22D3EE/JSM313" alt="contribution chart" width="100%" />
+
+<br/>
+
+🏆 Also collecting the automatic **GitHub Achievement badges** (Pull Shark, Quickdraw, etc.) — those show natively on the profile page itself, no widget needed.
+
+</div>
 
 <br/>
 
