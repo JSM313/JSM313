@@ -106,7 +106,7 @@ Orchestrated pipeline for Chicago crime data
 
 <br/>
 
-![Profile views](https://gpvc.arturio.dev/JSM313)
+![Profile views](https://komarev.com/ghpvc/?username=JSM313&color=22D3EE&style=flat&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
